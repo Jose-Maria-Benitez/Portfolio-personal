@@ -1,1 +1,18 @@
 # Portfolio-personal
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+    <link rel="stylesheet" href="Portfolio.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="Página principal.html" target="_self">Página principal</a>
+            <a href="Sobre mí.html" target="_self">Sobre mí</a>
+            <a href="Formación.html" target="_self">Formación profesional</a>
+            <a href="Proyectos.html" target="_self">Proyectos y experiencia</a>
+            <a href="Contacto.html" target="_self">Contacto</a>
+        </nav>
